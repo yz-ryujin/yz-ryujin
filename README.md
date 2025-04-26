@@ -6,14 +6,14 @@
   <img height="148em" width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=yz-ryujin&theme=midnight-purple&hide_border=false&locale=pt-br" alt="Github Stats"/>
 </div>
 
----
+##
 
-### 👨🏽‍💻Sobre Mim
+### 👨🏽‍💻 Sobre Mim
 <br>
 
 Olá! Atuo como **desenvolvedor frontend freelancer**, criando interfaces dinâmicas e responsivas, além de colaborar com equipes para entregar soluções eficientes em diversos projetos.<br>
 Tenho paixão por transformar ideias em experiências visuais intuitivas e de alto desempenho. Estou sempre explorando novas tecnologias e boas práticas para evoluir como profissional.
-<br><br><br>
+<br><br>
 
 🔭 Atualmente estou trabalhando em projetos pessoais focados em desenvolvimento front-end.
 
@@ -21,12 +21,18 @@ Tenho paixão por transformar ideias em experiências visuais intuitivas e de al
 
 💬 Gosto de falar sobre **tecnologia**, **produtividade** e **boas práticas de código**.
 
-📫 Como me encontrar: [Email](ryujincode.dev@gmail.com) | [LinkedIn](https://linkedin.com/in/seuusuario) | [Portfólio](https://ryujinportfo.netlify.app)
-
 🚀 Sempre aberto a novos desafios e colaborações!
 
+<div> 
 
----
+<p align="right">
+    <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/Gmail-DD1100?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E60023?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/Portfolio-330F63?style=for-the-badge" target="_blank"></a>
+</p>
+ 
+##
 
 
 ### 💻 Experiência de Trabalho
@@ -40,13 +46,11 @@ Tenho paixão por transformar ideias em experiências visuais intuitivas e de al
 jul/2024 a mar/2025
 </div>
 
----
-
+##
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,next,windicss,git,figma" />
   </a>
 </p>
 
----
-
+##
