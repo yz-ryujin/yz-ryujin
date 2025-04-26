@@ -26,10 +26,10 @@ Tenho paixão por transformar ideias em experiências visuais intuitivas e de al
 <div> 
 
 <p align="right">
-    <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/Gmail-DD1100?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E60023?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/Portfolio-330F63?style=for-the-badge" target="_blank"></a>
+    <a href="mailto:ryujincode.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-DD1100?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 	<a href="https://instagram.com/yx.will" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E60023?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/franklin-william-moura-de-miranda-b09262271" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href ="https://ryujinportfo.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-330F63?style=for-the-badge" target="_blank"></a>
 </p>
  
 ##
@@ -43,7 +43,7 @@ Tenho paixão por transformar ideias em experiências visuais intuitivas e de al
   </a>
   
 *Frontend Developer*  
-jul/2024 a mar/2025
+jul/2024 - mar/2025
 </div>
 
 ##
