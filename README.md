@@ -10,6 +10,7 @@
 
 ### 👨🏽‍💻Sobre Mim
 <br>
+
 Olá! Atuo como **desenvolvedor frontend freelancer**, criando interfaces dinâmicas e responsivas, além de colaborar com equipes para entregar soluções eficientes em diversos projetos.<br>
 Tenho paixão por transformar ideias em experiências visuais intuitivas e de alto desempenho. Estou sempre explorando novas tecnologias e boas práticas para evoluir como profissional.
 <br><br><br>
