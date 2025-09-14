@@ -39,7 +39,7 @@ Tenho paixão por transformar ideias em experiências visuais intuitivas e de al
 <br>
 <div>
   <a href="https://www.startedgo.com/">
-    <img align="left" height="60px" width="60px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/D4D0BAQGuilr9TX76gw/company-logo_100_100/company-logo_100_100/0/1724434633624/startedgoo_logo?e=1750896000&v=beta&t=BEArxmHOiG6fhkQ3rpKG1DyDRT6D-2pTBYQvwSRH_pM"/>
+    <img align="left" height="60px" width="60px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/D4D0BAQGuilr9TX76gw/company-logo_200_200/company-logo_200_200/0/1724434633624/startedgoo_logo?e=1760572800&v=beta&t=oDu--j7JWZ7juHIWcQIJkEQlvtmq9J7wtZwtgkXNE48"/>
   </a>
   
 *Frontend Developer*  
